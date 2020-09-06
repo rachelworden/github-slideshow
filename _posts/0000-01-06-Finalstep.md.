@@ -2,6 +2,6 @@
 layout: slide
 title: "Step 3"
 ---
-The most relevnt pages in the search index are matched with the query
+>The most relevnt pages in the search index are matched with the query
 and served up to the user by the search engine, operating on its unique
 set of search algorithms.
