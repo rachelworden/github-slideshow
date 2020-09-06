@@ -3,8 +3,7 @@ layout: slide
 title: "Paid Vs. Unpaid"
 ---
 
->Algorithms run both types of search, however paid search usually has a strong
-performance metric that directly impacts the search results 
+>Algorithms run both types of search, however paid searchs directly impacts the search results with strong performance metrics 
 
 •whereas organic search relies on a much more complicated blend of factors 
 
